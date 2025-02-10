@@ -2,7 +2,7 @@ from streamcontroller_plugin_tools import BackendBase
 
 import os
 
-os.environ["PYSTRAY_BACKEND"] = "gtk"
+os.environ["PYSTRAY_BACKEND"] = "appindicator"
 
 import pystray
 from loguru import logger as log
