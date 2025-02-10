@@ -1,0 +1,20 @@
+{
+    "version": "0.1.0",
+    "thumbnail": "store/thumbnail.png",
+    "id": "dev_eumario_TrayIcon",
+    "name": "TrayIcon for StreamController",
+    "author": "eumario",
+    "github": "https://github.com/eumario/StreamController_TrayIcon",
+    "tags": [
+        "TrayIcon",
+        "tray",
+        "icon",
+        "appindicator",
+        "ayanta-appindicator",
+        "systemtray"
+    ],
+    "minimum-app-version": "1.5.0-beta.7",
+    "app-version": "1.5.0-beta.7",
+    "description": "Creates a TrayIcon for StreamController",
+    "short-description": "TrayIcon for StreamController"
+}
