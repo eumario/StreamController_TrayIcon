@@ -1,3 +1,0 @@
-pystray==0.19.5
-pillow==11.0.0
-streamcontroller-plugin-tools==2.0.1
